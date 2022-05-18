@@ -10,7 +10,7 @@
 // EEPROM
 
 #define eepr_key 100 // For reset settings, change this number (0-255)
-#define addr_struct 0
+#define addr_struct 0 // (0-1023) Note: 1000+-5 reserved 
 
 // ENCODER
 
@@ -88,7 +88,7 @@ int menu_state = 1;
 
 uint32_t tmr_click_enc;
 
-bool oled_draw_flag = true;
+bool oled_draw_flag = true; // oled_redraw_flag
 bool enerjy_save;
 
 int vbat;
