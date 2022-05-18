@@ -1,2 +1,11 @@
 # Bicycle_Speedometer_Arduino
-This is a bicycle speedometer. The main controller is arduino nano (atmega328p).
+This is a program for bicycle speedometer. The main controller is arduino nano (atmega328p).
+Это программа для спидометра велосипеда. Главный контроллер - aruino nano (atmega328p).
+
+### Что нового?
+V1.1 Исправлены баги: (25 августа 2021 г)
+1. Неправильное отображение средней скорости при достаточно большом расстоянии
+2. Мигание дисплея при использовании второго режима отображнеия скорости
+3. Повышена стабильность показаний заряда батареи
+
+V1.0 Первоначальная версия (2021 г)
