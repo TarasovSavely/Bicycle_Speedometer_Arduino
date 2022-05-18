@@ -1,5 +1,6 @@
 # Bicycle_Speedometer_Arduino
 This is a program for bicycle speedometer. The main controller is arduino nano (atmega328p).
+
 Это программа для спидометра велосипеда. Главный контроллер - aruino nano (atmega328p).
 
 ### Что нового?
